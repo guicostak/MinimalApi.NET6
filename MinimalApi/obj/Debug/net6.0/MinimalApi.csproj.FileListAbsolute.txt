@@ -17,15 +17,9 @@ C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalA
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\System.Data.SqlClient.dll
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\System.Text.Json.dll
-C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\obj\Debug\net6.0\MinimalApi.csproj.AssemblyReference.cache
 C:\Users\dti Digital\Desktop\Pessoais\Projetos pessoais\MinimalApi.NET6\MinimalApi\obj\Debug\net6.0\MinimalApi.GeneratedMSBuildEditorConfig.editorconfig
