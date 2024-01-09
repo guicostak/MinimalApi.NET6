@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dti Digital\\Desktop\\Pessoais\\Projetos pessoais\\MinimalApi.NET6\\MinimalApi\\MinimalApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dti Digital\\Desktop\\Pessoais\\Projetos pessoais\\MinimalApi.NET6\\MinimalApi\\MinimalApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dti Digital\\Desktop\\Pessoais\\Projetos pessoais\\MinimalApi.NET6\\MinimalApi\\MinimalApi.csproj",
+        "projectName": "MinimalApi",
+        "projectPath": "C:\\Users\\dti Digital\\Desktop\\Pessoais\\Projetos pessoais\\MinimalApi.NET6\\MinimalApi\\MinimalApi.csproj",
+        "packagesPath": "C:\\Users\\dti Digital\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dti Digital\\Desktop\\Pessoais\\Projetos pessoais\\MinimalApi.NET6\\MinimalApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dti Digital\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://alm-animaeducacao.pkgs.visualstudio.com/_packaging/animacore/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.animaeducacao.com.br/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
